@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeqReaderVsManual", "SeqReaderVsManual\SeqReaderVsManual.csproj", "{AA0693E6-1A81-4F41-A2DB-7EF0658BC730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA0693E6-1A81-4F41-A2DB-7EF0658BC730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0693E6-1A81-4F41-A2DB-7EF0658BC730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0693E6-1A81-4F41-A2DB-7EF0658BC730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0693E6-1A81-4F41-A2DB-7EF0658BC730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
